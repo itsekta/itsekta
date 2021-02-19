@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
+- 👯 I have collaborated with [JumpLabs](https://www.jumplabs.in/)
+
+- 📝 I write articles on [https://dev.to/itsekta](https://dev.to/itsekta)
+
 - 📫 How to reach me **ektachaudhary129@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mbCDOlucb-V1jwufeO8W6FGXq1rTpjIR/view?usp=sharing](https://drive.google.com/file/d/1mbCDOlucb-V1jwufeO8W6FGXq1rTpjIR/view?usp=sharing)
