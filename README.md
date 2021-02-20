@@ -22,7 +22,7 @@
 <a href="https://dev.to/itsekta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsekta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ekta-chaudhary-241b871b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ekta-chaudhary-241b871b4/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009251114770" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009251114770" height="30" width="40" /></a>
-<a href="https://instagram.com/iamektachaudhary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamektachaudhary" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_ektachaudhary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_ektachaudhary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
