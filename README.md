@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsekta&label=Profile%20views&color=0e75b6&style=flat" alt="itsekta" /> </p>
 
-- 🔭 I’m currently working as an [Editor for Swagit App](https://www.facebook.com/swagitapp)
+<!-- - 🔭 I’m currently working as an [Editor for Swagit App](https://www.facebook.com/swagitapp)
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I have collaborated with [JumpLabs](https://www.jumplabs.in/)
 
-- 📝 I write articles on [https://dev.to/itsekta](https://dev.to/itsekta)
+- 📝 I write articles on [https://dev.to/itsekta](https://dev.to/itsekta) -->
 
 - 📫 How to reach me **ektachaudhary129@gmail.com**
 
