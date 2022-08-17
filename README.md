@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to VUE JS  
   
 
-- ⚡ Fun fact: !false --> It's funny because it's true  
+- ⚡ Fun fact: Life is short, so is my height 😅 
   
 
 <br/>  
