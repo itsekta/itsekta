@@ -80,4 +80,6 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+[![@itsekta129's Holopin board](https://holopin.me/itsekta129)](https://holopin.io/@itsekta129)
+
