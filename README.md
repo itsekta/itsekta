@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekta Chaudhary</h1>
-<h3 align="center">Highly skilled and motivated Software Engineer with a passion for developing innovative solutions. With a solid foundation in computer science and extensive experience in software development, I possess a deep understanding of various programming languages, frameworks, and methodologies.</h3>
+<!-- <h3 align="center">Highly skilled and motivated Software Engineer with a passion for developing innovative solutions. With a solid foundation in computer science and extensive experience in software development, I possess a deep understanding of various programming languages, frameworks, and methodologies.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsekta&label=Profile%20views&color=0e75b6&style=flat" alt="itsekta" /> </p>
 
